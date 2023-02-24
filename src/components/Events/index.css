@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.main-container1 {
+  background-color: #64748b;
+  height: 100%;
+  width: 65%;
+}
+
+.heading1 {
+  color: #f8fafc;
+  font-size: 40px;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.events-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.over-all-container {
+  display: flex;
+}

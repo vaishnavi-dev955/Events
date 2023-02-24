@@ -1,0 +1,96 @@
+/* Write your CSS here */
+.main-container2 {
+  background-color: #ffffff;
+  height: 100%;
+  width: 35%;
+}
+
+.heading2 {
+  color: #64748b;
+  font-size: 25px;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.RegisteredView-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.registered-style {
+  padding-top: 100px;
+  height: 400px;
+  width: 200px;
+}
+
+.RegisteredView-heading {
+  color: #323f4b;
+  font-size: 30px;
+}
+
+.yetToRegister-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.paragraph {
+  color: #475569;
+  font-size: 20px;
+}
+.Register-Here-button {
+  height: 30px;
+  width: 200px;
+  background-color: #0967d2;
+  color: #ffffff;
+  border: 0px solid;
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.RegistrationsClosedView-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.registrationsclosed-style {
+  padding-top: 100px;
+  height: 450px;
+  width: 150px;
+}
+
+.registrationsclosed-heading {
+  color: #323f4b;
+  font-size: 30px;
+}
+
+.registrationsclosed-paragraph {
+  color: #475569;
+  font-size: 20px;
+}
+
+.no-active-event-description {
+  text-align: center;
+  align-self: flex-start;
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.75;
+  margin: 0px;
+  margin-top: 64px;
+  margin-right: 16px;
+  margin-left: 16px;
+}
+
+.yetToRegister-style {
+  height: 400px;
+  width: 300px;
+  padding-top: 100px;
+}
